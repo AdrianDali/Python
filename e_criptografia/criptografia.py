@@ -81,7 +81,7 @@ def run():
         |                              |
         |   [c]cifrar mensaje          |
         |   [d]decifrar mensaje        |
-        |   [s]salirr                  |
+        |   [s]salir                  |
         |______________________________|
         : 
          """))
